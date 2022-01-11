@@ -1,0 +1,6 @@
+package com.example.week_5_ui5
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
